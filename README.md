@@ -10,6 +10,8 @@ This project is to create a simple AR prototype using Unity and AR Foundation to
 
 I decided to create a simple prototype that first gets the user to calibrate the environment in order to get the right amount of space needed to play the game. Afterward the game will start and objects will spawn based on the position of the planes detected. It will pick a random point based around the plane and spawn a target. The target will move in a random direction and destroy itself upon colliding with anything. The player can click on the target and if hit, it will destroy and the score will increase. On the case that the planes stop being detected, it will auto pause the game and wait until the user moves around and more plane space is created.
 
+There is also a video including a playthrough demo of the prototype.
+
 ### How to play:
 
 `Click` - To hit the target and earn points
